@@ -1,7 +1,7 @@
 # Notebooklm: Machine learning e dados financeiros
 O propósito desse repositório é descrever o uso da ferramenta NotebookLm do Google no processo de busca de fontes e na criação de um guia de estudos. O tema escolhido está na interface do uso de machine learning, LLM's e SLM's e no uso de aprendizagem estatística em geral para o estudo de dados ligados ao mercado financeiro.
 
-Esse repositório é organizado da seguinte maneira: 
+Esse repositório é organizado da seguinte maneira: <br>
 -Arquivo README.md contendo informações gerais, como fontes utilizadas e pequenos exemplos de prompt e output.<br>
 -Arquivo Prompts.md contendo mais exemplos de prompts e de resultados. É nesse arquivo que são apresentados prompts reutilizáveis.<br>
 -Arquivo Miniguia_de_estudo.md, que possui uma aplicação do NotebookLM: montar um plano de estudo baseado nos temas das fontes.<br>
