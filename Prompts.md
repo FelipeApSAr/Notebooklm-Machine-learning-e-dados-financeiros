@@ -5,6 +5,8 @@ Nesse arquivo iremos apresentar um pequeno conjunto de prompts obtidos com as fo
 
 
 ## Prompts reutilizáveis
+Aqui vamos apresentar algumas ideias de prompts reutilizáveis. Note que estes não são todos os possíveis, mas sim ideias gerais de prompts que podem ser úteis na extração de informações do NotebookLM após o fornecimento de algumas fontes
+
 ### Prompt 1
 Explique [CONCEITO] considerando que eu já conheço [CONCEITO RELACIONADO]. Apresente uma explicação intuitiva, um exemplo prático e os principais erros de interpretação sobre o assunto.
 
