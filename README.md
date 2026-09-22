@@ -26,7 +26,7 @@ O processo de busca de fontes partiu de um conhecimento breve prévio do autor. 
 **Financial Machine Learning** - Bryan T. Kelly e Dacheng Xiu<br>
 **Machine Learning in Finance from theory to practice** - Matthew F. Dixon, Igor Halperin, e Paul Bilokon<br>
 **Signature Methods in Finance** - Christian Bayer, Gonçalo dos Reis, Blanka Horvath e Harald Oberhauser<br>
-**Data Science for Economics and Finance Methodologies and Applications** - Sergio Consoli, Diego Reforgiato Recupero, e Michaela Saisana<br>
+**Data Science for Economics and Finance Methodologies and Applications** - Sergio Consoli, Diego Reforgiato Recupero, e Michaela Saisana<br>
 **An introduction to statistical learning with applications in python** - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani e Jonathan Taylor<br>
 
 ### Fontes em sites
